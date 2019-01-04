@@ -1,0 +1,13 @@
+@font-face{
+    /*font-family: 'maozedong';*/
+    /*src: url(../fonts/maozedong.ttf);*/
+}
+body{
+    /*background: url(../images/longmao.jpg) yellowgreen;*/
+    font-size: 24pt;
+    /*font-family: 'maozedong';*/
+}
+p{
+    font-family: "微软雅黑";
+    font-weight: 700;
+}
